@@ -8,9 +8,9 @@
 	style="Jazz"
 
 	enteredby="Mark Veltzer"
-	maintainerEmail="mark@veltzer.net"
+	maintainerEmail="mark@veltzer.org"
 	footer=""
-	tagline="generated at http://www.veltzer.net by Mark Veltzer <mark@veltzer.net>"
+	tagline="generated at http://www.veltzer.org by Mark Veltzer <mark@veltzer.org>"
 }
 
 tune={
